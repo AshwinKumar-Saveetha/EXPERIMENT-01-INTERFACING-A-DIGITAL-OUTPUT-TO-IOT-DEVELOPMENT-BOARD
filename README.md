@@ -1,13 +1,12 @@
-<img width="1498" height="1600" alt="image" src="https://github.com/user-attachments/assets/20e407e8-cf1f-47c3-b4ac-483ac70a02ca" /># EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
-
+# EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 **DATE: 02/02/2026**
 
-**NAME: Ashwin**
+**NAME: Ashwin Kumar A**
 
-**ROLL NO:**
+**ROLL NO: 212223040021**
 
-**DEPARTMENT:**
+**DEPARTMENT: CSE**
 
 ## Aim
 
